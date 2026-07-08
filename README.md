@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sachin 👋
 
-<!--
-**sachins-codes/sachins-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 B.Sc. Information Technology Student
+- 💻 Learning Python, Data Analytics and Tableau
+- 📊 Interested in Data Visualization and Machine Learning
+- 🚀 Building real-world projects
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Tableau
+- Git & GitHub
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Credit Card Fraud Detection
+- Data Visualization Projects
+
+## Contact
+- Email: sachin07edu@gmail.com
